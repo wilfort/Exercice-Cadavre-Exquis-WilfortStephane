@@ -49,3 +49,10 @@ une liste de problèmes
 
 Qu'est-ce qui est vert, qui tourne très très vite et qui devient rouge ?
 Une grenouille dans un mixer
+
+
+_A NE PAS OUBLIER_ 
+
+- Tellement 
+- Tellement ...
+- Mais Teeeelement de choses !!!! 
