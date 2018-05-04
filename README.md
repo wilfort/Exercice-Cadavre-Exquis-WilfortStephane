@@ -31,14 +31,14 @@ Sinon apres avoir bien mangé si on allait maintenant dormir.
 
 ## Nouveau chapitre : Le *Colibris*
 
-Un jour, un grand incendie se déclare dans la forêt… Tous les 
-animaux, terrifiés, observaient impuissants ce désastre. Seul le 
-petit colibri, aussi frêle que déterminé, s’active en allant 
-chercher quelques gouttes d’eau dans son bec, qu’il jette sur le 
-feu, recommençant son manège sans relâche. Au bout d’un moment, 
-le tatou agacé par cette activité à ses yeux inutile, lui dit : – 
-« Colibri ! Tu n’es pas un peu fou ? Tu crois que c’est avec ces 
-gouttes d’eau que tu vas éteindre le feu ? » – « Je le sais, 
+Un jour, un grand incendie se déclare dans la forêt… Tous les
+animaux, terrifiés, observaient impuissants ce désastre. Seul le
+petit colibri, aussi frêle que déterminé, s’active en allant
+chercher quelques gouttes d’eau dans son bec, qu’il jette sur le
+feu, recommençant son manège sans relâche. Au bout d’un moment,
+le tatou agacé par cette activité à ses yeux inutile, lui dit : –
+« Colibri ! Tu n’es pas un peu fou ? Tu crois que c’est avec ces
+gouttes d’eau que tu vas éteindre le feu ? » – « Je le sais,
 répond le colibri, mais moi, au moins, je fais ma part.
 
 _A MEDITER_
@@ -46,3 +46,7 @@ _A MEDITER_
 une liste de problèmes
 * git
 * terminal
+
+Formez-vous à l'utilisation de **GitHub** et **Git**. *Contactez* l'équipe de formation
+ou *visitez* notre site web pour connaître les dates de formation
+et les disponibilités pour des cours privés.
