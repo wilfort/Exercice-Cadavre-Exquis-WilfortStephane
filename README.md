@@ -22,3 +22,9 @@ FAites gaffes aux majuscules
 Sinon ca va pas marcher
 
 Les petits conseils d'Adrien ;)
+
+Sinon apres avoir bien mangé si on allait maintenant dormir.
+
+**OUI** j'ai envie de dormir et j'espere pas rêver de GIT.
+
+*Mhhhh. Je ne sais plus quoi écrire !!!*
