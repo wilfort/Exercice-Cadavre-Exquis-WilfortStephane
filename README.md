@@ -42,3 +42,7 @@ gouttes d’eau que tu vas éteindre le feu ? » – « Je le sais,
 répond le colibri, mais moi, au moins, je fais ma part.
 
 _A MEDITER_
+
+une liste de problèmes
+* git
+* terminal
