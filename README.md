@@ -7,3 +7,11 @@ Mes hobbies sont :
       2. La **lecture** de livre du *genre fantastique* qui parle *de magie et de monstre*, et des **manga** de *touts genres*.
       
       3. regardes des **vidéos** que ce soit des **films** ou **séries** du *genre fantastique*, *horreur*, et des **manga** de *touts genres*.
+
+<pre>
+	<code>
+		Il fût une fois, un jolie chat passa par ici,
+		Malheureusement un oiseau l'attendais...
+		L'oiseau tua alors le chien qui étais là !
+	</code>
+</pre>
