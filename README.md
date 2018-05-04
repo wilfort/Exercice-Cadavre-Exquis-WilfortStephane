@@ -45,4 +45,7 @@ _A MEDITER_
 
 une liste de problèmes
 * git
-* terminal
+* terminal  
+
+Qu'est-ce qui est vert, qui tourne très très vite et qui devient rouge ?
+Une grenouille dans un mixer
