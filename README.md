@@ -28,3 +28,17 @@ Sinon apres avoir bien mangé si on allait maintenant dormir.
 **OUI** j'ai envie de dormir et j'espere pas rêver de GIT.
 
 *Mhhhh. Je ne sais plus quoi écrire !!!*
+
+## Nouveau chapitre : Le *Colibris*
+
+Un jour, un grand incendie se déclare dans la forêt… Tous les 
+animaux, terrifiés, observaient impuissants ce désastre. Seul le 
+petit colibri, aussi frêle que déterminé, s’active en allant 
+chercher quelques gouttes d’eau dans son bec, qu’il jette sur le 
+feu, recommençant son manège sans relâche. Au bout d’un moment, 
+le tatou agacé par cette activité à ses yeux inutile, lui dit : – 
+« Colibri ! Tu n’es pas un peu fou ? Tu crois que c’est avec ces 
+gouttes d’eau que tu vas éteindre le feu ? » – « Je le sais, 
+répond le colibri, mais moi, au moins, je fais ma part.
+
+_A MEDITER_
